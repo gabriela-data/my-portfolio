@@ -3,6 +3,8 @@
 ## Sobre o Projeto
 Este portfólio foi desenvolvido em Flutter para apresentar meus projetos e habilidades como cientista/analista de dados. Ele é responsivo, animado e otimizado tanto para web quanto para dispositivos móveis. Aqui, você encontrará alguns dos projetos mais relevantes que trabalhei, usando ferramentas como Python, R, Power BI e SQL.
 
+[Clique aqui]() para ver o portifólio completo!
+
 ## Funcionalidades
 - **Responsividade**: Adaptável a diferentes tamanhos de tela (mobile e desktop).
 - **Animações Interativas**: Transições suaves entre seções, melhorando a experiência do usuário.
@@ -20,23 +22,28 @@ Para rodar este portfólio localmente, siga as instruções abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/portfolio-dados-flutter.git
+   git clone https://github.com/gabriela-data/my-portfolio.git
    
 2. Acesse o diretório do projeto:
-    cd portfolio-dados-flutter
+    ```bash
+    cd my-portfolio
 
-3. Instale as dependências:
-  flutter pub get
+4. Instale as dependências:
+   ```bash
+   flutter pub get
 
-4. Execute o projeto:
+6. Execute o projeto:
+   ```bash
    flutter run
 
->**Nota**: Certifique-se de ter o Flutter configurado corretamente em sua máquina. Para mais informações, acesse [Flutter Dev](https://docs.flutter.dev/).
+>**Nota**: Certifique-se de ter o Flutter configurado corretamente em sua máquina.
+>Para mais informações, acesse [Flutter Dev](https://docs.flutter.dev/).
 
 
 ## Contato
 Se você tiver interesse em colaborar ou quiser saber mais sobre meu trabalho, entre em contato:
 
-Email: gabrielawork1@gmail.com
-LinkedIn: [Gabriela Almeida](https://www.linkedin.com/in/gabriela-ssa/)
+- Email: gabrielawork1@gmail.com
+
+- LinkedIn: [Gabriela Almeida](https://www.linkedin.com/in/gabriela-ssa/)
 
